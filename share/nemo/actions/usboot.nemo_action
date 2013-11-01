@@ -1,0 +1,8 @@
+[Nemo Action]
+Active=true
+Exec=usboot -m iso -i "%F"
+Icon-Name=gtk-execute
+Selection=S
+Extensions=iso;img;
+Name=Make bootable USB stick
+Comment=Make a bootable USB stick

@@ -1,0 +1,7 @@
+usboot (1.0.0) khukuri; urgency=low
+
+  * Bootable USB creator
+
+ -- Clement Lefebvre <root@chitwanix.com>  Fri, 25 Oct 2013 14:24:29 +0100
+
+usboot (1.1.0) petra; urgency=low

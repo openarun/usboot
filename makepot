@@ -1,0 +1,5 @@
+#!/bin/bash
+
+intltool-extract --type=gettext/glade share/usboot/usboot.glade
+xgettext --language=Python --keyword=_ --keyword=N_ --output=usboot.pot lib/usboot.py generate_additional_files.py share/usboot/usboot.glade.h
+rm -f share/usboot/usboot.glade.ui

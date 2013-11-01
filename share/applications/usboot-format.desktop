@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=gtk-execute
+Exec=usboot -m format
+Categories=GNOME;GTK;Utility;
+NotShowIn=KDE;
+Name=USB Stick Formatter
+Comment=Format a USB stick

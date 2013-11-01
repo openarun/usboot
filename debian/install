@@ -1,0 +1,7 @@
+lib/* usr/lib/usboot
+share/usboot/* usr/share/usboot
+share/applications/* usr/share/applications
+share/polkit/* usr/share/polkit-1/actions
+usboot usr/bin
+share/nemo/actions/* usr/share/nemo/actions
+

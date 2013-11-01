@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=system-run
+Exec=usboot -m iso
+Categories=System;
+OnlyShowIn=KDE;
+Name=USB Image Writer
+Comment=Make a bootable USB stick

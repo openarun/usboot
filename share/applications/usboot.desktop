@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=gtk-execute
+Exec=usboot -m iso
+Categories=GNOME;GTK;Utility;
+NotShowIn=KDE;
+Name=USB Image Writer
+Comment=Make a bootable USB stick
